@@ -1,4 +1,4 @@
-		// DASAR-DASAR C++
+		// DASAR-DASAR C++ 01
 
 // import library
 #include<iostream>
